@@ -1,0 +1,37 @@
+1st-
+devlop
+2nd-
+git flow init
+3rd
+git flow feature start (filename)
+thn pull from
+
+
+
+
+git flow cls:
+
+publish/production:
+
+main/master
+
+develop branch:
+develop:
+|
+|-feature : create feature
+|
+|-bugfix : come from QA
+|
+|-hotfix : live theke kono bug asle seita hotfix
+|
+|-release :  develop theke publish korte (sily prblm hole 1.0.1 level e, serious prblm hole 2 level er)
+|
+|-support prefix
+|
+|
+
+STEP:
+
+1. git init
+2. git flow init
+
